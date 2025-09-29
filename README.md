@@ -43,15 +43,23 @@ $ ./config.sh
 
 ### 1 - Run the simulation scripts
 
-Run the simulations with different schedulers. The output is redirected to /dev/null to keep the terminal clean:
+Run the simulations with different configurations and/or schedulers. The output is redirected to /dev/null to keep the terminal clean:
 
 ```bash
-# Run with NR-EDF Scheduler
-$ opp_runall -j"$(nproc)" ./run -u Cmdenv -f omnetpp_dcgbr_v7.ini -c EDF_Scheduler -r 0..99999 > /dev/null 2>&1
-
-# Run with PF Scheduler
-$ opp_runall -j"$(nproc)" ./run -u Cmdenv -f omnetpp_dcgbr_v7.ini -c PF_Scheduler -r 0..99999 > /dev/null 2>&1
+$ opp_runall -j"$(nproc)" ./run -u Cmdenv -f OMNETPP_FILE -c SCHEDULER -r 0..99999 > /dev/null 2>&1
 ```
+
+| SCHEDULER Options | Description                            |
+| ----------------- | -------------------------------------- |
+| `EDF_Scheduler`   | New Radio Earliest Deadline First |
+| `PF_Scheduler`    | Proportional Fair                      |
+
+| OMNETPP_FILE Options | Purpose                                                                 |
+| -------------------- | ----------------------------------------------------------------------- |
+| `omnetpp_dim.ini`    | Resource block dimensioning for simulations with only real-time packets |
+| `omnetpp_ue_den.ini` | Study of schedulability for different densities of real-time services   |
+| `omnetpp_mixed.ini`  | Throughput and schedulability analysis for mixed packet types           |
+
 
 ### 2 - Analyze the results
 After running the simulations, navigate to the analysis folder:
