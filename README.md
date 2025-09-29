@@ -9,17 +9,29 @@ Refer to [README_SIMU5G.md](./README_SIMU5G.md) for the original Simu5G 1.3.0 do
 - Samuel Tardieu (samuel.tardieu@telecom-paris.fr)
 - Laurent Pautet (laurent.pautet@telecom-paris.fr)
 
-## Dependencies
-This version requires:
-- OMNeT++ 6.1.0
-- INET 4.5.4
-
-## Simu5G Features
+## NR-EDF Simu5G Features
 - NR-EDF Scheduler
 - Missed Deadlines Counter for periodic and sporadic traffic
 - Python scripts for:
   - Converting `.sca` files into `.json` files
   - Analysing `.sca` and `.json` files (JSON is more storage-efficient)
+
+## Installation
+To install our extension, follow these steps:
+
+1. Install **OMNeT++**.  
+2. Inside the OMNeT++ directory, create a folder named `workspace`.  
+3. Install **INET** and **Simu5G** inside the `workspace` folder.  
+4. Replace the contents of the `Simu5G` folder with the contents of this repository.  
+5. Follow the rest of this README to learn how to use the new features introduced in this extension.  
+
+> **Note:** This software has been tested on **Linux Mint 21.2**, but it should work on any distribution supported by the original Simu5G.
+
+### Dependencies
+This version requires:  
+- **OMNeT++ 6.1.0**  
+- **INET 4.5.4**
+
 
 
 ## How to use this extension
