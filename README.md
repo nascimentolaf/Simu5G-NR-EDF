@@ -31,6 +31,7 @@ To install our extension, follow these steps:
 This version requires:  
 - **OMNeT++ 6.1.0**  
 - **INET 4.5.4**
+- **Simu5G 1.3.0**
 
 
 
