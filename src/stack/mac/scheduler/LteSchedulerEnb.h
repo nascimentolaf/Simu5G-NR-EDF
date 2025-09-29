@@ -1,7 +1,8 @@
 //
-//                  Simu5G
+//                  Simu5G-NR-EDF (Extension of Simu5G)
 //
-// Authors: Giovanni Nardini, Giovanni Stea, Antonio Virdis (University of Pisa)
+// Original Authors: Giovanni Nardini, Giovanni Stea, Antonio Virdis (University of Pisa)
+// Extension Authors: Alaf Nascimento, Philippe Martins, Samuel Tardieu, Laurent Pautet (Institut Polytechnique de Paris)
 //
 // This file is part of a software released under the license included in file
 // "license.pdf". Please read LICENSE and README files before using it.
@@ -17,24 +18,25 @@
 #include "stack/mac/allocator/LteAllocatorUtils.h"
 #include "stack/mac/LteMacEnb.h"
 
-namespace simu5g {
-
-using namespace omnetpp;
-
-/// forward declarations
-class LteScheduler;
-class LteAllocationModule;
-class LteMacEnb;
-
-/**
- * @class LteSchedulerEnb
- *
- */
-class LteSchedulerEnb
+namespace simu5g
 {
+
+  using namespace omnetpp;
+
+  /// forward declarations
+  class LteScheduler;
+  class LteAllocationModule;
+  class LteMacEnb;
+
+  /**
+   * @class LteSchedulerEnb
+   *
+   */
+  class LteSchedulerEnb
+  {
     /******************
-    * Friend classes
-    ******************/
+     * Friend classes
+     ******************/
 
     // Lte Scheduler Modules access grants
     friend class LteScheduler;
@@ -46,27 +48,29 @@ class LteSchedulerEnb
     friend class LteMaxCiComp;
     friend class LteAllocatorBestFit;
 
-  protected:
+    // NR Scheduler Modules access grants
+    friend class NrEDF;
 
+  protected:
     /*******************
-    * Data structures
-    *******************/
+     * Data structures
+     *******************/
 
     // booked requests list : Band, bytes, blocks
     struct Request
     {
-        Band b_;
-        unsigned int bytes_;
-        unsigned int blocks_;
+      Band b_;
+      unsigned int bytes_;
+      unsigned int blocks_;
 
-        Request(Band b, unsigned int bytes, unsigned int blocks) : b_(b), bytes_(bytes), blocks_(blocks)
-        {
-        }
+      Request(Band b, unsigned int bytes, unsigned int blocks) : b_(b), bytes_(bytes), blocks_(blocks)
+      {
+      }
 
-        Request()
-        {
-            Request(0, 0, 0);
-        }
+      Request()
+      {
+        Request(0, 0, 0);
+      }
     };
 
     // Owner MAC module. Set via initialize().
@@ -86,6 +90,9 @@ class LteSchedulerEnb
 
     //! Set of active connections.
     ActiveSet activeConnectionSet_;
+
+    //! Set of MacPduMetaData
+    MacPduMetaDataList macPduMetaDataSet_;
 
     // Schedule list. One per carrier
     std::map<double, LteMacScheduleList> scheduleList_;
@@ -120,7 +127,6 @@ class LteSchedulerEnb
     double utilization_ = 0; // it records the utilization in the last TTI
 
   public:
-
     /**
      * Default constructor.
      */
@@ -129,12 +135,12 @@ class LteSchedulerEnb
     /**
      * Copy constructor and operator=
      */
-    LteSchedulerEnb(const LteSchedulerEnb& other)
+    LteSchedulerEnb(const LteSchedulerEnb &other)
     {
-        operator=(other);
+      operator=(other);
     }
 
-    LteSchedulerEnb& operator=(const LteSchedulerEnb& other);
+    LteSchedulerEnb &operator=(const LteSchedulerEnb &other);
 
     /**
      * Destructor.
@@ -170,9 +176,9 @@ class LteSchedulerEnb
     /**
      * Get/Set current available Resource Blocks.
      */
-    unsigned int& resourceBlocks()
+    unsigned int &resourceBlocks()
     {
-        return resourceBlocks_;
+      return resourceBlocks_;
     }
 
     /**
@@ -180,7 +186,7 @@ class LteSchedulerEnb
      */
     unsigned int getResourceBlocks()
     {
-        return resourceBlocks_;
+      return resourceBlocks_;
     }
 
     /**
@@ -188,7 +194,7 @@ class LteSchedulerEnb
      */
     double getUtilization()
     {
-        return utilization_;
+      return utilization_;
     }
 
     /**
@@ -221,7 +227,7 @@ class LteSchedulerEnb
     /**
      * Resource Block IDs computation function.
      */
-    unsigned int readRbOccupation(const MacNodeId id, double carrierFrequency, RbMap& rbMap);
+    unsigned int readRbOccupation(const MacNodeId id, double carrierFrequency, RbMap &rbMap);
 
     /**
      * Schedules retransmission for the Harq Process of the given UE on a set of logical bands.
@@ -235,10 +241,10 @@ class LteSchedulerEnb
      * @return The allocated bytes. 0 if retransmission was not possible
      */
     virtual unsigned int schedulePerAcidRtx(MacNodeId nodeId, double carrierFrequency, Codeword cw, unsigned char acid,
-            std::vector<BandLimit> *bandLim = nullptr, Remote antenna = MACRO, bool limitBl = false) = 0;
+                                            std::vector<BandLimit> *bandLim = nullptr, Remote antenna = MACRO, bool limitBl = false) = 0;
 
     virtual unsigned int scheduleBgRtx(MacNodeId bgUeId, double carrierFrequency, Codeword cw, std::vector<BandLimit> *bandLim = nullptr,
-            Remote antenna = MACRO, bool limitBl = false) = 0;
+                                       Remote antenna = MACRO, bool limitBl = false) = 0;
 
     /**
      * Schedules capacity for a given connection without effectively performing the operation on the
@@ -258,11 +264,11 @@ class LteSchedulerEnb
      * @param limitBl if true bandLim vector express the limit of allocation for each band in blocks
      * @return The number of bytes that have been actually granted.
      */
-    virtual unsigned int scheduleGrant(MacCid cid, unsigned int bytes, bool& terminate, bool& active, bool& eligible, double carrierFrequency,
-            BandLimitVector *bandLim = nullptr, Remote antenna = MACRO, bool limitBl = false);
+    virtual unsigned int scheduleGrant(MacCid cid, unsigned int bytes, bool &terminate, bool &active, bool &eligible, double carrierFrequency,
+                                       BandLimitVector *bandLim = nullptr, Remote antenna = MACRO, bool limitBl = false);
 
-    virtual unsigned int scheduleGrantBackground(MacCid bgCid, unsigned int bytes, bool& terminate, bool& active, bool& eligible, double carrierFrequency,
-            BandLimitVector *bandLim = nullptr, Remote antenna = MACRO, bool limitBl = false);
+    virtual unsigned int scheduleGrantBackground(MacCid bgCid, unsigned int bytes, bool &terminate, bool &active, bool &eligible, double carrierFrequency,
+                                                 BandLimitVector *bandLim = nullptr, Remote antenna = MACRO, bool limitBl = false);
     /*
      * Getter for active connection set
      */
@@ -270,8 +276,10 @@ class LteSchedulerEnb
 
     void removeActiveConnections(MacNodeId nodeId);
 
-  protected:
+    MacPduMetaDataList *readMacPduMetaDataList();
+    void insertMacPduMetaData(MacPduMetaData meta);
 
+  protected:
     /**
      * Checks Harq Descriptors and returns the first free codeword.
      *
@@ -279,7 +287,7 @@ class LteSchedulerEnb
      * @param cw
      * @return
      */
-    virtual bool checkEligibility(MacNodeId id, Codeword& cw, double carrierFrequency) = 0;
+    virtual bool checkEligibility(MacNodeId id, Codeword &cw, double carrierFrequency) = 0;
 
     /*
      * Schedule and related methods.
@@ -349,7 +357,7 @@ class LteSchedulerEnb
 
     unsigned int allocatedCws(MacNodeId nodeId)
     {
-        return allocatedCws_[nodeId];
+      return allocatedCws_[nodeId];
     }
 
     // Get the bands already allocated
@@ -361,10 +369,9 @@ class LteSchedulerEnb
     void storeScListId(double carrierFrequency, std::pair<unsigned int, Codeword> scList, unsigned int num_blocks);
 
   private:
-
     /*****************
-    * UTILITIES
-    *****************/
+     * UTILITIES
+     *****************/
 
     /**
      * Returns a particular LteScheduler subclass,
@@ -372,9 +379,8 @@ class LteSchedulerEnb
      * @param discipline scheduler discipline
      */
     LteScheduler *getScheduler(SchedDiscipline discipline);
-};
+  };
 
-} //namespace
+} // namespace
 
 #endif // _LTE_LTESCHEDULERENB_H_
-

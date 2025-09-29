@@ -80,7 +80,7 @@ See ``averageCqiDl:mean`` and ``avgServerBlocksDl:mean`` statistics.
 Step 3: Adding a Variable Number of UEs
 ---------------------------------------
 
-Configuration: :ini:`Multiple-UEs`
+Configuration: :ini:`SCADA`
 
 This configuration adds a variable number of (foreground) *UEs* (from 1 to 20) in the (foreground) *gNB*.
 All of them receive 800 kbps CBR traffic from a remote server.
@@ -101,7 +101,7 @@ See ``avgServerBlocksDl:mean`` and ``cbrReceivedThroughput:mean`` statistics.
 Step 4: Carrier Aggregation
 ---------------------------
 
-Configuration: :ini:`CarrierAggregation`
+Configuration: :ini:`PF_Scheduler`
 
 This configuration enables a second Component Carrier (CC) at the *gNBs*. Thus, the *UEs* will be allocated
 into the second CC when the RBs in the first one are terminated.
@@ -121,7 +121,7 @@ See ``avgServerBlocksDl:mean`` and ``cbrReceivedThroughput:mean`` statistics.
 Step 5: Numerology
 ------------------
 
-Configuration: :ini:`Numerology`
+Configuration: :ini:`EDF_Scheduler`
 
 This configuration shows how to change the numerology (u=0,1,2) assigned to all Component Carriers (CC).
 

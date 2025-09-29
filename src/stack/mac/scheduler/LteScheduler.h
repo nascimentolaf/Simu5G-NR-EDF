@@ -1,7 +1,8 @@
 //
-//                  Simu5G
+//                  Simu5G-NR-EDF (Extension of Simu5G)
 //
-// Authors: Giovanni Nardini, Giovanni Stea, Antonio Virdis (University of Pisa)
+// Original Authors: Giovanni Nardini, Giovanni Stea, Antonio Virdis (University of Pisa)
+// Extension Authors: Alaf Nascimento, Philippe Martins, Samuel Tardieu, Laurent Pautet (Institut Polytechnique de Paris)
 //
 // This file is part of a software released under the license included in file
 // "license.pdf". Please read LICENSE and README files before using it.
@@ -15,32 +16,33 @@
 #include "common/LteCommon.h"
 #include "stack/mac/LteMacEnb.h"
 
-namespace simu5g {
-
-using namespace omnetpp;
-
-/// forward declarations
-class LteSchedulerEnb;
-
-/**
- * Score-based schedulers descriptor.
- */
-template<typename T, typename S>
-struct SortedDesc
+namespace simu5g
 {
+
+  using namespace omnetpp;
+
+  /// forward declarations
+  class LteSchedulerEnb;
+
+  /**
+   * Score-based schedulers descriptor.
+   */
+  template <typename T, typename S>
+  struct SortedDesc
+  {
     /// Connection identifier.
     T x_;
     /// Score value.
     S score_;
 
     /// Comparison operator to enable sorting.
-    bool operator<(const SortedDesc& y) const
+    bool operator<(const SortedDesc &y) const
     {
-        if (score_ < y.score_)
-            return true;
-        if (score_ == y.score_)
-            return uniform(getEnvir()->getRNG(0), 0, 1) < 0.5;
-        return false;
+      if (score_ < y.score_)
+        return true;
+      if (score_ == y.score_)
+        return uniform(getEnvir()->getRNG(0), 0, 1) < 0.5;
+      return false;
     }
 
   public:
@@ -51,16 +53,14 @@ struct SortedDesc
     SortedDesc(const T x, const S score) : x_(x), score_(score)
     {
     }
+  };
 
-};
-
-/**
- * @class LteScheduler
- */
-class LteScheduler
-{
+  /**
+   * @class LteScheduler
+   */
+  class LteScheduler
+  {
   protected:
-
     /// MAC module, used to get parameters from NED
     opp_component_ptr<LteMacEnb> mac_;
 
@@ -78,6 +78,12 @@ class LteScheduler
 
     //! General Active set. Temporary variable used in the two-phase scheduling operations
     ActiveSet activeConnectionTempSet_;
+
+    //! Set of MacPduMetaData
+    MacPduMetaDataList *macPduMetaDataSet_ = {};
+
+    // Temporary list for storing MacPduMetaData during scheduling
+    MacPduMetaDataList macPduMetaDataTempSet_;
 
     //! Per-carrier Active set. Temporary variable used for storing the set of connections allowed in this carrier
     ActiveSet carrierActiveConnectionSet_;
@@ -108,7 +114,6 @@ class LteScheduler
     unsigned int currentSchedulingPeriodCounter_;
 
   public:
-
     /**
      * Default constructor.
      */
@@ -177,6 +182,7 @@ class LteScheduler
 
     virtual void schedule();
 
+    // virtual void prepareSchedule(Binder* binder)
     virtual void prepareSchedule()
     {
     }
@@ -188,10 +194,10 @@ class LteScheduler
     // *****************************************************************************************
 
     /// Performs request of grant to the eNbScheduler
-    virtual unsigned int requestGrant(MacCid cid, unsigned int bytes, bool& terminate, bool& active, bool& eligible, std::vector<BandLimit> *bandLim = nullptr);
+    virtual unsigned int requestGrant(MacCid cid, unsigned int bytes, bool &terminate, bool &active, bool &eligible, std::vector<BandLimit> *bandLim = nullptr);
 
     /// Performs request of background grant to the eNbScheduler
-    virtual unsigned int requestGrantBackground(MacCid bgCid, unsigned int bytes, bool& terminate, bool& active, bool& eligible, std::vector<BandLimit> *bandLim = nullptr);
+    virtual unsigned int requestGrantBackground(MacCid bgCid, unsigned int bytes, bool &terminate, bool &active, bool &eligible, std::vector<BandLimit> *bandLim = nullptr);
 
     /// Calls eNbScheduler::rtxschedule()
     virtual bool scheduleRetransmissions();
@@ -208,16 +214,13 @@ class LteScheduler
     }
 
   protected:
-
     /*
      * Prepare the set of active connections on this carrier
      * Used by scheduling modules
      */
     void buildCarrierActiveConnectionSet();
+  };
 
-};
-
-} //namespace
+} // namespace
 
 #endif // _LTE_LTESCHEDULER_H_
-

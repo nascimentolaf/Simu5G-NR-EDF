@@ -1,7 +1,8 @@
 //
-//                  Simu5G
+//                  Simu5G-NR-EDF (Extension of Simu5G)
 //
-// Authors: Giovanni Nardini, Giovanni Stea, Antonio Virdis (University of Pisa)
+// Original Authors: Giovanni Nardini, Giovanni Stea, Antonio Virdis (University of Pisa)
+// Extension Authors: Alaf Nascimento, Philippe Martins, Samuel Tardieu, Laurent Pautet (Institut Polytechnique de Paris)
 //
 // This file is part of a software released under the license included in file
 // "license.pdf". Please read LICENSE and README files before using it.
@@ -19,19 +20,28 @@
 #include "stack/pdcp_rrc/LtePdcpRrcEnbD2D.h"
 #include "stack/dualConnectivityManager/DualConnectivityManager.h"
 
-namespace simu5g {
 
-/**
- * @class NRPdcpRrcEnb
- * @brief PDCP Layer
- *
- * This is the PDCP/RRC layer of NR Stack
- *
- */
-class NRPdcpRrcEnb : public LtePdcpRrcEnbD2D
+namespace simu5g
 {
 
+  /**
+   * @class NRPdcpRrcEnb
+   * @brief PDCP Layer
+   *
+   * This is the PDCP/RRC layer of NR Stack
+   *
+   */
+  class NRPdcpRrcEnb : public LtePdcpRrcEnbD2D
+  {
+
   protected:
+    /** FiveQI search function
+     * Searches for the FiveQI in the packet, if it exists.
+     * If it does not exist, it returns -1.
+     * @param pkt Packet to search
+     * @return FiveQI value or -1 if not found
+     */
+    int search5QI(inet::Packet *pktAux);
 
     // Flag for enabling Dual Connectivity
     bool dualConnectivityEnabled_;
@@ -87,10 +97,8 @@ class NRPdcpRrcEnb : public LtePdcpRrcEnbD2D
 
   public:
     virtual void activeUeUL(std::set<MacNodeId> *ueSet);
+  };
 
-};
-
-} //namespace
+} // namespace
 
 #endif
-

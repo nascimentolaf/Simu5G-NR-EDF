@@ -1,0 +1,8002 @@
+[
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9974.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9967.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9930.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9871.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9649.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9795.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9893.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9724.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9800.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9615.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9774.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9648.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9729.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9922.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9909.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9682.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9837.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9826.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9894.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9896.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9842.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9678.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9836.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9634.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9882.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9591.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9580.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9963.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9833.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9926.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9779.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9757.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9710.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9665.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9645.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9739.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9583.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9966.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9733.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9935.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 148.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9876.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9821.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9791.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9959.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9825.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9956.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9802.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9642.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9947.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9927.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9611.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9708.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9637.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9866.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9951.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9970.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9734.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9812.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9786.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9957.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9892.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9880.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9737.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9639.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9747.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9796.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9805.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9766.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9921.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9685.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9585.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9804.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9874.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9760.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9789.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9716.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9721.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9829.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9593.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9832.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9764.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9925.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9582.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9863.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9659.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9875.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9632.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9900.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 148.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9592.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9677.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9624.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9885.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9717.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9798.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9792.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9719.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9723.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9656.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9762.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9943.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9883.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9915.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 148.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9695.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9864.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9674.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9618.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9763.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9920.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9878.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9621.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9938.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9697.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9650.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9910.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9924.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9816.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9743.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9633.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9897.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9725.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9776.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9671.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9741.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9933.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9666.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9784.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9941.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9746.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9755.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9895.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9889.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9872.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9881.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9605.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9581.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9803.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9684.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9906.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9818.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9790.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9855.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9934.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9847.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9899.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9775.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9887.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9654.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9745.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9601.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9824.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9835.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9976.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9968.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 148.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9622.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9859.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9675.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9720.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9808.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9865.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9598.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9603.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9849.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9626.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9830.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9873.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9669.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9590.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9823.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9754.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9778.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9781.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9727.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9783.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9912.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9785.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9839.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9850.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9902.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9646.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9643.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9744.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9595.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9794.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9610.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9612.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9672.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9854.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9848.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9718.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9948.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9946.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9913.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9664.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9652.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9587.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9730.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9668.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9870.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9820.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9780.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9630.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9867.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9742.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9958.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 148.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9602.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9698.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9944.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9714.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9758.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9711.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9901.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9773.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9769.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9869.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9955.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9736.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9681.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9916.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9953.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9768.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9942.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9599.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9879.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9692.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9852.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9928.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9807.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9819.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9834.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9954.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9625.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9831.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9699.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9777.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9890.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9688.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9813.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9860.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9644.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9761.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9658.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9908.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 148.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9979.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9799.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9617.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9918.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9978.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 148.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9772.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9676.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9620.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9586.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9627.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9844.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9623.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9972.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9740.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9858.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9939.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9693.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9614.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9964.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9640.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9667.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9689.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9702.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9843.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9888.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9975.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9767.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9905.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9661.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9904.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9748.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9788.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9655.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9950.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9917.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9923.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9616.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9609.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9735.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9914.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9940.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9696.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9936.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9694.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9641.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9732.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9679.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9851.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9731.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9949.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9817.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9712.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9753.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9793.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9827.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9660.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9663.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9945.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 148.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9771.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9961.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 148.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9687.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9728.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9841.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9787.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9700.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9797.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9636.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9756.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9709.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9690.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9653.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9750.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9931.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9782.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9715.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9703.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9686.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9960.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9726.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9828.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9701.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9811.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9600.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9861.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9713.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9596.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9647.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9608.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9770.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9705.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9815.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9965.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9606.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9752.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9806.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9877.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9691.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9759.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9613.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9683.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9898.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9597.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9810.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9607.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9856.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9619.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9751.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9635.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9862.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9631.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9907.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9971.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9973.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9853.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9801.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9838.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9707.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9589.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9588.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9738.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9673.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9657.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9662.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9670.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9706.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9846.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9651.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9594.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9765.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9969.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9952.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9932.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9809.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9919.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9722.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9704.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9911.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9868.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9680.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9749.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9822.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9937.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9977.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9628.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9962.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9857.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9584.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9929.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9814.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9884.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9629.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9604.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9903.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 149.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9840.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9891.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9638.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9886.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    },
+    {
+        "File": "data/results_dcgbr_v7_edf6/SCADA/9845.sca",
+        "MissedDeadlineCounter": 0,
+        "PktCounter": 150.0,
+        "Apps": [
+            {
+                "0": 0
+            },
+            {
+                "1": 0
+            },
+            {
+                "2": 0
+            },
+            {
+                "3": 0
+            }
+        ],
+        "Schedulable": true
+    }
+]

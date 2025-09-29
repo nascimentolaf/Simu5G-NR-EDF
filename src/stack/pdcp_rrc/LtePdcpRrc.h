@@ -1,7 +1,8 @@
 //
-//                  Simu5G
+//                  Simu5G-NR-EDF (Extension of Simu5G)
 //
-// Authors: Giovanni Nardini, Giovanni Stea, Antonio Virdis (University of Pisa)
+// Original Authors: Giovanni Nardini, Giovanni Stea, Antonio Virdis (University of Pisa)
+// Extension Authors: Alaf Nascimento, Philippe Martins, Samuel Tardieu, Laurent Pautet (Institut Polytechnique de Paris)
 //
 // This file is part of a software released under the license included in file
 // "license.pdf". Please read LICENSE and README files before using it.
@@ -23,45 +24,46 @@
 #include "stack/pdcp_rrc/LteRxPdcpEntity.h"
 #include "stack/pdcp_rrc/packet/LtePdcpPdu_m.h"
 
-namespace simu5g {
-
-using namespace omnetpp;
-
-class LteTxPdcpEntity;
-class LteRxPdcpEntity;
-
-class PacketFlowManagerBase;
-
-#define LTE_PDCP_HEADER_COMPRESSION_DISABLED    B(-1)
-
-/**
- * @class LtePdcp
- * @brief PDCP Layer
- *
- * TODO REVIEW COMMENTS
- *
- * This is the PDCP/RRC layer of the LTE Stack.
- *
- * The PDCP part performs the following tasks:
- * - Header compression/decompression
- * - association of the terminal with its eNodeB, thus storing its MacNodeId.
- *
- * The PDCP layer attaches a header to the packet. The size
- * of this header is fixed at 2 bytes.
- *
- * The RRC part performs the following actions:
- * - Binding the Local IP Address of this Terminal with
- *   its module id (MacNodeId) by informing these details
- *   to the oracle.
- * - Assign a Logical Connection IDentifier (LCID)
- *   for each connection request (coming from PDCP).
- *
- * The couple < MacNodeId, LogicalCID > constitutes the CID,
- * that uniquely identifies a connection in the whole network.
- *
- */
-class LtePdcpRrcBase : public cSimpleModule
+namespace simu5g
 {
+
+  using namespace omnetpp;
+
+  class LteTxPdcpEntity;
+  class LteRxPdcpEntity;
+
+  class PacketFlowManagerBase;
+
+#define LTE_PDCP_HEADER_COMPRESSION_DISABLED B(-1)
+
+  /**
+   * @class LtePdcp
+   * @brief PDCP Layer
+   *
+   * TODO REVIEW COMMENTS
+   *
+   * This is the PDCP/RRC layer of the LTE Stack.
+   *
+   * The PDCP part performs the following tasks:
+   * - Header compression/decompression
+   * - association of the terminal with its eNodeB, thus storing its MacNodeId.
+   *
+   * The PDCP layer attaches a header to the packet. The size
+   * of this header is fixed at 2 bytes.
+   *
+   * The RRC part performs the following actions:
+   * - Binding the Local IP Address of this Terminal with
+   *   its module id (MacNodeId) by informing these details
+   *   to the oracle.
+   * - Assign a Logical Connection IDentifier (LCID)
+   *   for each connection request (coming from PDCP).
+   *
+   * The couple < MacNodeId, LogicalCID > constitutes the CID,
+   * that uniquely identifies a connection in the whole network.
+   *
+   */
+  class LtePdcpRrcBase : public cSimpleModule
+  {
     friend class LteTxPdcpEntity;
     friend class LteRxPdcpEntity;
     friend class NRTxPdcpEntity;
@@ -84,7 +86,6 @@ class LtePdcpRrcBase : public cSimpleModule
     virtual void deleteEntities(MacNodeId nodeId) {}
 
   protected:
-
     /**
      * Initialize class structures
      * gates, delay, compression
@@ -327,69 +328,70 @@ class LtePdcpRrcBase : public cSimpleModule
     static simsignal_t receivedPacketFromLowerLayerSignal_;
     static simsignal_t sentPacketToUpperLayerSignal_;
     static simsignal_t sentPacketToLowerLayerSignal_;
-};
+  };
 
-class LtePdcpRrcUe : public LtePdcpRrcBase
-{
+  class LtePdcpRrcUe : public LtePdcpRrcBase
+  {
   protected:
-
     MacNodeId getDestId(inet::Ptr<FlowControlInfo> lteInfo) override
     {
-        // UE is subject to handovers: master may change
-        return binder_->getNextHop(nodeId_);
+      // UE is subject to handovers: master may change
+      return binder_->getNextHop(nodeId_);
     }
 
     Direction getDirection() override
     {
-        // Data coming from DataPort on UE are always Uplink
-        return UL;
+      // Data coming from DataPort on UE are always Uplink
+      return UL;
     }
 
   public:
     void initialize(int stage) override;
     void deleteEntities(MacNodeId nodeId) override;
-};
+  };
 
-class LtePdcpRrcEnb : public LtePdcpRrcBase
-{
+  class LtePdcpRrcEnb : public LtePdcpRrcBase
+  {
   protected:
     void handleControlInfo(cPacket *upPkt, FlowControlInfo *lteInfo)
     {
-        delete lteInfo;
+      delete lteInfo;
     }
 
     MacNodeId getDestId(inet::Ptr<FlowControlInfo> lteInfo) override
     {
-        // destination id
-        MacNodeId destId = binder_->getMacNodeId(inet::Ipv4Address(lteInfo->getDstAddr()));
-        // master of this UE (myself)
-        MacNodeId master = binder_->getNextHop(destId);
-        if (master != nodeId_) {
-            destId = master;
+      // destination id
+      MacNodeId destId = binder_->getMacNodeId(inet::Ipv4Address(lteInfo->getDstAddr()));
+      // master of this UE (myself)
+      MacNodeId master = binder_->getNextHop(destId);
+      if (master != nodeId_)
+      {
+        destId = master;
+      }
+      else
+      {
+        // for dual connectivity
+        master = binder_->getMasterNode(master);
+        if (master != nodeId_)
+        {
+          destId = master;
         }
-        else {
-            // for dual connectivity
-            master = binder_->getMasterNode(master);
-            if (master != nodeId_) {
-                destId = master;
-            }
-        }
-        // else UE is directly attached
-        return destId;
+      }
+      // else UE is directly attached
+      return destId;
     }
 
     Direction getDirection() override
     {
-        // Data coming from DataPort on ENB are always Downlink
-        return DL;
+      // Data coming from DataPort on ENB are always Downlink
+      return DL;
     }
 
   public:
     void initialize(int stage) override;
     void deleteEntities(MacNodeId nodeId) override;
-};
+  };
 
-} //namespace
+} // namespace
 
 #endif
-

@@ -1,7 +1,8 @@
 //
-//                  Simu5G
+//                  Simu5G-NR-EDF (Extension of Simu5G)
 //
-// Authors: Giovanni Nardini, Giovanni Stea, Antonio Virdis (University of Pisa)
+// Original Authors: Giovanni Nardini, Giovanni Stea, Antonio Virdis (University of Pisa)
+// Extension Authors: Alaf Nascimento, Philippe Martins, Samuel Tardieu, Laurent Pautet (Institut Polytechnique de Paris)
 //
 // This file is part of a software released under the license included in file
 // "license.pdf". Please read LICENSE and README files before using it.
@@ -97,14 +98,15 @@ enum ApplicationType
 
 enum SchedDiscipline
 {
-    DRR = 0;
-    PF = 1;
-    MAXCI = 2;
-    MAXCI_MB = 3;
-    MAXCI_OPT_MB = 4;
-    MAXCI_COMP = 5;
-    ALLOCATOR_BESTFIT = 6;
-    UNKNOWN_DISCIPLINE = 7;
+    EDF = 0;
+    DRR = 1;
+    PF = 2;
+    MAXCI = 3;
+    MAXCI_MB = 4;
+    MAXCI_OPT_MB = 5;
+    MAXCI_COMP = 6;
+    ALLOCATOR_BESTFIT = 7;
+    UNKNOWN_DISCIPLINE = 8;
 };
 
 // specifies how the final CQI will be computed from the multiband ones
