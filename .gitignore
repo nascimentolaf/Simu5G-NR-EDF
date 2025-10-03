@@ -54,7 +54,6 @@ src/err
 
 # ignore binary files
 out/
-*.so
 *.dylib
 *.dll
 *.a
