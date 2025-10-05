@@ -39,8 +39,9 @@ namespace simu5g
     {
       MacCid cid;      // Connection ID
       double priority; // Priority score
+      int qos_id;
 
-      NrEdfScoreDesc(MacCid c, double p) : cid(c), priority(p) {}
+      NrEdfScoreDesc(MacCid c, double p, int q) : cid(c), priority(p), qos_id(q) {}
       bool operator<(const NrEdfScoreDesc &other) const
       {
         return priority < other.priority; // descending order of priority (highest priority comes first), use top() afterwards

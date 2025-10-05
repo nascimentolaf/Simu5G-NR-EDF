@@ -523,7 +523,7 @@ namespace simu5g
     }
 
     // alaf
-    void LteMacEnb::macPduMake(MacCid cid, FiveQI fiveQi, simtime_t arrivalTime)
+    void LteMacEnb::macPduMake(MacCid cid, FiveQI fiveQi, simtime_t arrivalTime, bool isLteRlcPduNewData)
     {
         MacPduMetaData meta;
         meta.cid = cid;
@@ -534,7 +534,12 @@ namespace simu5g
         enbSchedulerDl_->insertMacPduMetaData(meta);
 
         // Call the actual PDU making function
-        macPduMake(cid);
+        if (!isLteRlcPduNewData)
+        // This condition was added because I noticed that when multiple apps were attached to the same UE,
+        // all flows inherited the UE's first configured 5QI instead of their own.
+        {
+            macPduMake(cid);
+        }
     }
 
     void LteMacEnb::macPduMake(MacCid cid)
@@ -854,19 +859,17 @@ namespace simu5g
         auto pkt = check_and_cast<Packet *>(pktAux);
         auto lteInfo = pkt->getTag<FlowControlInfo>();
         MacCid cid = idToMacCid(lteInfo->getDestId(), lteInfo->getLcid());
-
         bool isLteRlcPduNewData = checkIfHeaderType<LteRlcPduNewData>(pkt);
-
         bool packetIsBuffered = bufferizePacket(pkt); // will buffer (or destroy if the queue is full)
 
-        if (!isLteRlcPduNewData && packetIsBuffered)
+        // alaf
+        if (packetIsBuffered)
         {
-            // alaf
             // new MAC SDU has been received (was requested by MAC, no need to notify the scheduler)
             // creates PDUs from the schedule list and puts them in HARQ buffers
-            macPduMake(cid, lteInfo->getFiveQI(), simTime());
+            macPduMake(cid, lteInfo->getFiveQI(), simTime(), isLteRlcPduNewData);
         }
-        else if (isLteRlcPduNewData)
+        if (isLteRlcPduNewData)
         {
             // new data - inform scheduler of the active connection
             enbSchedulerDl_->backlog(cid);

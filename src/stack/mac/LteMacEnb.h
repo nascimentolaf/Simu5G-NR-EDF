@@ -93,7 +93,7 @@ namespace simu5g
          * It sends them to H-ARQ.
          */
         void macPduMake(MacCid cid) override;
-        void macPduMake(MacCid cid, FiveQI fiveQi, simtime_t arrivalTime);
+        void macPduMake(MacCid cid, FiveQI fiveQi, simtime_t arrivalTime, bool isLteRlcPduNewData);
 
         /**
          * macPduUnmake() extracts SDUs from a received MAC

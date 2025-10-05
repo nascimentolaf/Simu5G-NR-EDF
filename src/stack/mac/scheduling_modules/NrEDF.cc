@@ -79,9 +79,8 @@ namespace simu5g
         }
 
         mappedPriority = map_to_range(min_value, max_value, priority);
-        // std::cout << tb.mcp.qos_id << " | priority: " << priority << " (" << params.resource_type << ") mapped priority: " << mappedPriority << std::endl;
-        // std::cout << "----------------------\n";
-        nrEdfQueue.push(NrEdfScoreDesc(cid, mappedPriority));
+        // std::cout << simTime() << " -> " << tb.mcp.qos_id << " | priority: " << priority << " (" << params.resource_type << ") mapped priority: " << mappedPriority << std::endl;
+        nrEdfQueue.push(NrEdfScoreDesc(cid, mappedPriority, tb.mcp.qos_id));
     }
 
     int NrEDF::allocate_radio_resources(NrEDFScoreList &packets_queue)
@@ -89,6 +88,13 @@ namespace simu5g
         while (!packets_queue.empty())
         {
             NrEdfScoreDesc current = packets_queue.top();
+
+            // std::cout << simTime() << " | 5QI : " << current.qos_id << " Priority: " << current.priority << std::endl;
+            // static double last_time = simTime().dbl();
+            // if(last_time != simTime().dbl()){
+            //     last_time = simTime().dbl();
+            //     std::cout << "--------------------------------\n";
+            // }
 
             // do not consider background traffic
             if (MacCidToNodeId(current.cid) >= BGUE_MIN_ID)
@@ -144,6 +150,10 @@ namespace simu5g
 
         macPduMetaDataTempSet_ = *macPduMetaDataSet_;
 
+        // for(auto it : *macPduMetaDataSet_){
+        //     std::cout << it.arrivalTime << " | " << it.cid << " | " << it.fiveQi << std::endl;
+        // }
+
         // Build the score list by cycling through the active connections.
         NrEDFScoreList nrEdfQueue;
 
@@ -177,17 +187,17 @@ namespace simu5g
             {
                 if (it->cid == cid)
                 {
+                    // std::cout << simTime().dbl() << " | " << cid << " UE | 5QI : " << it->fiveQi << std::endl;
                     fiveQi = it->fiveQi;
                     Ai = it->arrivalTime;
-                    break; // we wanted the last one
+                    // break; // we wanted the last one
+                    rlc_pdu rlcPDU = {fiveQi, Ai.dbl()};                  // RLC PDU metadata
+                    double wctt = 0;                                      // TODO
+                    transport_block tb = {rlcPDU, simTime().dbl(), wctt}; // Initialize transport block with the last RLC PDU metadata
+                    double priority = compute_tb_priority(tb);
+                    queueing_by_resource_type(nrEdfQueue, priority, cid, tb);
                 }
             }
-
-            rlc_pdu rlcPDU = {uint8_t(fiveQi), Ai.dbl()};         // RLC PDU metadata
-            double wctt = 0;                                      // TODO
-            transport_block tb = {rlcPDU, simTime().dbl(), wctt}; // Initialize transport block with the last RLC PDU metadata
-            double priority = compute_tb_priority(tb);
-            queueing_by_resource_type(nrEdfQueue, priority, cid, tb);
         }
 
         allocate_radio_resources(nrEdfQueue);
