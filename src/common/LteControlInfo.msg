@@ -72,6 +72,7 @@ class LteControlInfo extends inet::TagBase {
     uint16 lcid = 0;                                        // Logical Connection Identifier
     int32 multicastGroupId = -1;                        // Identifier for a multicast group (it is in range [0:[2^28)-1] )
                                                         // For unicast communications, this field is -1
+    unsigned int fiveQI = 0; // alaf
 }
 
 //

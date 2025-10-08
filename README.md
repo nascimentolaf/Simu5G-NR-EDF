@@ -21,9 +21,9 @@ To install our extension, follow these steps:
 
 1. Install **OMNeT++**.  
 2. Inside the OMNeT++ directory, create a folder named `workspace`.  
-3. Install **INET** and **Simu5G** inside the `workspace` folder.  
-4. Copy the contents of this repository into the `Simu5G` folder, replacing the existing files. **Do not delete the original `Simu5G` folder**, as it contains object files that are still needed.
-5. Follow the rest of this README to learn how to use the new features introduced in this extension.  
+3. Install **INET** inside the `workspace` folder.  
+4. Clone this repository into the `workspace` folder, and rename it to **simu5G**.
+5. Follow the rest of this README to learn how to compile and use the new features introduced in this extension.  
 
 > **Note:** This software has been tested on **Linux Mint 21.2**, but it should work on any distribution supported by the original Simu5G.
 
@@ -53,7 +53,7 @@ source ./config2.sh
 # Go to the SCADA tutorial simulations folder
 $ cd simulations/NR/tutorial_scada
 
-# Set up the configuration for the extension
+# Build and Set up the Simu5G extension
 $ ./config.sh
 ```
 

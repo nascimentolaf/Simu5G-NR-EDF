@@ -23,4 +23,5 @@ class CbrPacket extends inet::FieldsChunk {
     simtime_t arrivalTime;
     simtime_t payloadTimestamp;
     unsigned int payloadSize;
+    unsigned int fiveQI; // alaf
 }
